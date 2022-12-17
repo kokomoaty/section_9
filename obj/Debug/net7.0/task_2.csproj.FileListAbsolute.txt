@@ -1,0 +1,15 @@
+C:\Users\koko\Desktop\c#\task_2\bin\Debug\net7.0\task_2.exe
+C:\Users\koko\Desktop\c#\task_2\bin\Debug\net7.0\task_2.deps.json
+C:\Users\koko\Desktop\c#\task_2\bin\Debug\net7.0\task_2.runtimeconfig.json
+C:\Users\koko\Desktop\c#\task_2\bin\Debug\net7.0\task_2.dll
+C:\Users\koko\Desktop\c#\task_2\bin\Debug\net7.0\task_2.pdb
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\task_2.csproj.AssemblyReference.cache
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\task_2.AssemblyInfoInputs.cache
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\task_2.AssemblyInfo.cs
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\task_2.dll
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\refint\task_2.dll
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\task_2.pdb
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\task_2.genruntimeconfig.cache
+C:\Users\koko\Desktop\c#\task_2\obj\Debug\net7.0\ref\task_2.dll
